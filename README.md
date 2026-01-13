@@ -166,7 +166,7 @@ git push -u origin main
 
 ### 3. Verify Deployment
 
-Test all features on the deployed URL:[https://smart-issue-board-iota.vercel.app/](smart-issue-board)
+Test all features on the deployed URL:[https://smart-issue-board-iota.vercel.app]
 - Sign up / Login
 - Create issue (with similarity detection)
 - Filter by status and priority
